@@ -82,7 +82,7 @@ Feel free to fork this repository and submit pull requests to contribute to this
 Contact
 For any questions or feedback, please reach out:
 - **GitHub**: https://github.com/renemunyeshyaka/
-- **Email**: [munyeshyaka@hotmail.com]
+- **Email**: munyeshyaka@hotmail.com
 -
 ## For More Details
 Let me know if you need additional adjustments!
