@@ -81,8 +81,9 @@ Feel free to fork this repository and submit pull requests to contribute to this
 ## Contact
 Contact
 For any questions or feedback, please reach out:
-- **GitHub**: [Learn with iftekhar](https://github.com/learnwithiftekhar)
-- **Email**: [learnwithiftekhar@gmail.com](mailto:learnwithiftekhar@gmail.com)
+- **GitHub**: [Learn with iftekhar](https://github.com/renemunyeshyaka/)
+- **Email**: [learnwithiftekhar@gmail.com](mailto:munyeshyaka@hotmail.com)
+-
 -
 ```vbnet
 Let me know if you need additional adjustments!
