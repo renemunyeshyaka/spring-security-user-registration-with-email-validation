@@ -1,6 +1,5 @@
 # Spring Security Login, Registration and Email Verification
-A Spring Boot project showcasing user registration, email verification via a tokenized verification link, and secure user login.
-
+Spring Security User Registration with Email Validation involves creating a secure user registration process where users sign up with their email addresses.
 ---
 
 ## Features
